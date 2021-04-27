@@ -1,0 +1,32 @@
+{
+    "kantorCabang": [
+        {
+            "name": "Semua Kantor Cabang",
+            "desc": "Senasional"
+        },
+        {
+            "name": "Bantul",
+            "desc": "Bantul - DI Yogyakarta"
+        },
+        {
+            "name": "Bogor",
+            "desc": "Kota Bogor - Jawa Barat"
+        },
+        {
+            "name": "Gunung Kidul",
+            "desc": "Bantul - DI Yogyakarta"
+        },
+        {
+            "name": "Jakarta Selatan",
+            "desc": "Jakarta Selatan - DKI Jakarta"
+        },
+        {
+            "name": "Kulon Progo",
+            "desc": "Bantul - DI Yogyakarta"
+        },
+        {
+            "name": "Sleman",
+            "desc": "Sleman - DI Yogyakarta"
+        }
+    ]
+}
